@@ -1,7 +1,6 @@
-NAME:Sitharth.B.S
-REG NO:24900657
-
-# Control-of-Relay-Using-IoT-controller
+### NAME : Sitharth.B.S
+### REG NO :24900657
+# EXPERIMENT 2:Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
