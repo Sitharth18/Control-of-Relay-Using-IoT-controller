@@ -1,3 +1,6 @@
+NAME:Sitharth.B.S
+REG NO:24900657
+
 # Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
@@ -54,10 +57,13 @@ delay(1000);
 ![image](https://github.com/user-attachments/assets/558733eb-481c-46ea-ad0f-c686c7ffc698)
 
 ## OUTPUT:
+
 LAMP OFF:
+
 ![image](https://github.com/user-attachments/assets/f8129fae-c2d5-4329-ae35-76dc1477a219)
 
 LAMP ON:
+
 ![image](https://github.com/user-attachments/assets/c2bd704e-89eb-4373-8814-1d93ab54fad5)
 
 
